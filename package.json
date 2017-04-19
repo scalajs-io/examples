@@ -1,0 +1,9 @@
+{
+  "name": "examples-sjs",
+  "version": "0.4.0-pre4",
+  "private": true,
+  "dependencies": {
+    "examples": "^2.7.1",
+    "source-map": "^0.5.6"
+  }
+}
