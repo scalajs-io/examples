@@ -10,14 +10,7 @@ This is a collection of examples to help those new to Scala.js, ScalaJs.io or No
 
 * [SBT v0.13.15](http://www.scala-sbt.org/download.html)
 
-<a name="building_sdk"></a>
-### Build/publish the SDK locally
-
-```bash
- $ sbt clean publish-local
-```
-
-### Getting Setup
+### Getting Started
 
 Before running any of the examples, you must ensure the npm packages are installed 
 (**NOTE:** this only needs to be done once):
